@@ -1,8 +1,6 @@
 # Querying-in-SQL-Coursework
 This was a coursework where we had to use SQL queries to filter data in extremely huge datasets. In this coursework we are querying through IMDBs database subset.
 
-![Alt text](https://media.giphy.com/media/QJ8bR5An4VC59FvVcx/giphy.gif)
-
 ## Using the SQL code
 To be able to run the queries uploaded here, you will need to download the IMDB database subset, which is  attached above as a zip file and load it on to your own MariaDB/mySQL. 
 
@@ -22,3 +20,6 @@ The questions used to query are listed below in order:
 |10|Based on ratings with 10,000 or more votes, what is the top movie genre using the average rank per movie genre as the metric?(Note: where a higher value for rank is considered a better movie)11|List any actors (male/female) that have starred in 10 or more different film genres.12|How many movies have an actor/actress that also wrote and directed the movie?|
 |13|Which decade has the highest average ranked movies?(put the first year from the decade, so for 1900-1909 you would put 1900)14|How many movies are missing a genre in the dataset?|
 |15|How many movies have an actor/actress written and directed but not starred in?  (i.e. the person that wrote and directed the movie is an actor/actress but they didn't star in their own movie)|
+
+
+![Alt text](https://media.giphy.com/media/QJ8bR5An4VC59FvVcx/giphy.gif)
